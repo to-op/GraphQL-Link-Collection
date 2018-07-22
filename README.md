@@ -8,6 +8,7 @@ Documentation, Articles, etc. related to GraphQL
 * https://blog.graphql.guide/introducing-the-graphql-guide-11a5ae48628a
 * https://www.graph.cool
 * https://www.howtographql.com/?v1
+* https://cloudacademy.com/blog/how-to-write-graphql-apps-using-aws-lambda/
 
 ## Tutorials
 
